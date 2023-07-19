@@ -9,4 +9,5 @@ Aprendendo Funções, eventos, copiar texto em javascript com navigator.clipboar
  #### JavaScript
 
  ### projeto => [challenge](https://cidinha-dev.github.io/Challende-Criptografia/)
+ -------------------
 ![exemplo](/img/img-projeto-challenge.png)
