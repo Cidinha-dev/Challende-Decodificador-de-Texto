@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Chanllenge Criptografia</title>
+</head>
+<body>
+
+    <!-- cabeçalho -->
+    <header class="header">
+        <img src="img/transferir.png" alt="letra a">
+    </header>
+
+    <!-- container principal -->
+    <div class="main">
+        <section class="parte-1">
+
+            <h1>Mensagem Secreta para Casa Branca</h1>
+            <textarea class="areaTexto" placeholder="Digite seu texto..." cols="40" rows="20">
+            </textarea>
+
+            <div>
+                <h6 class="informacao"> (!) Apenas letras minúsculas e sem acento.</h6>
+            </div>
+            <div class="botoes">
+
+                <button class="btnCopiar todos-btn" onclick="encriptar()">Criptografar<button>                
+
+                <button class="btn-des todos-btn" onclick="desencriptar()">Descriptografar</button>
+
+            </div>
+        </section>
+
+        <section class="parte-2">
+            <div class="containerResultado ">
+                <div class="containerImg">
+                    <img src="img/imagem.png" >
+                </div>
+                <div>
+                    <textarea class="areaResultado" placeholder="Digite seu texto..." cols="40">
+                    </textarea>
+                </div>
+                <div class="botoes">
+                    <button class="btnCopiar todos-btn" onclick="copiar()">Copiar</button>
+                </div>
+                
+            </div>
+
+        </section>
+    </div>
+
+    <script src="script.js"></script>
+    
+</body>
+</html>
