@@ -35,8 +35,8 @@
  .areaTexto{
     width: 100%;
     height: 45vh;
-    padding: 1rem;
-    font-size: 2rem;
+    padding: 0.8rem;
+    font-size: 1.2rem;
     border-radius: 50px;
     box-shadow: 5px 5px 10px ;
     background-color: rgb(204, 207, 255);
@@ -88,9 +88,9 @@
  }
  .areaResultado{
    width: 100%;
-   padding: 1rem;
+   padding: 0.8rem;
    height: 30vh;
-   font-size: 2rem;
+   font-size: 1.2rem;
    border-radius: 50px;
    box-shadow: 5px 5px 10px ;
    background-color: rgb(204, 207, 255);
