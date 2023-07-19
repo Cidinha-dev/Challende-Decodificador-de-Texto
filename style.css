@@ -78,7 +78,7 @@
  }
  .containerResultado{
    margin: 0rem 1rem;
-   height: 60vh;
+   height: 55vh;
    border-radius: 50px;
    box-shadow: 5px 5px 10px ;
    background-color: rgb(219, 221, 251);
@@ -89,7 +89,7 @@
  .areaResultado{
    width: 100%;
    padding: 0.8rem;
-   height: 30vh;
+   height: 35vh;
    font-size: 1.2rem;
    border-radius: 50px;
    box-shadow: 5px 5px 10px ;
