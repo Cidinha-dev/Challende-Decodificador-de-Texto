@@ -1,6 +1,6 @@
 ## Challenge-ONE-Decodificador-de-Texto
 
-aprendendo sofre funções, eventos, copiar texto em javascript, aprendendo sobre como utilizar o - .replace para alterar as letras, copiar a resposta de um input para outro input e muito mais...✨
+Aprendendo Funções, eventos, copiar texto em javascript com navigator.clipboard.writeText, aprendendo sobre como utilizar o - .replace para alterar as letras, copiar a resposta de um input para outro input com o .innerHTML, a trabalhar de forma responsiva e muito mais...✨
 
 
  Challenge Iniciante em Programação - Decodificador de Texto construido usando:
